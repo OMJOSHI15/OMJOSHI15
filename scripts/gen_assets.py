@@ -71,7 +71,7 @@ body = f'''
 write("manifesto", frame(150, body, "manifesto"))
 
 # ---------------------------------------------------------------- status
-stats = [("PIPELINE", "5-LAYER ASYNC"), ("DECISION", "APPROVE / REVIEW / BLOCK"), ("LATENCY TARGET", "< 300ms"), ("STATUS", "ONLINE")]
+stats = [("PIPELINE", "5-LAYER ASYNC"), ("DECISION", "APPROVE / REVIEW / BLOCK"), ("LATENCY TARGET", "&lt; 300ms"), ("STATUS", "ONLINE")]
 cw = (W - 80) / len(stats)
 cells = ""
 for i, (label, value) in enumerate(stats):
