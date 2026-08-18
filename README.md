@@ -20,8 +20,6 @@
 
 </div>
 
-<img src="./assets/risk-radar.svg" alt="Scoring layer signal" width="100%" />
-
 <img src="./assets/divider.svg" alt="" width="100%" />
 
 <img src="./assets/project-indus11.svg" alt="Indus11 — AI Fraud Detection Engine" width="100%" />
