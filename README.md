@@ -8,8 +8,6 @@
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-<img src="./assets/manifesto.svg" alt="Fraud is not a rule to catch. It is a pattern to model." width="100%" />
-
 <img src="./assets/status.svg" alt="System status" width="100%" />
 
 <img src="./assets/divider.svg" alt="" width="100%" />

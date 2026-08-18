@@ -78,7 +78,7 @@ for i, (label, value) in enumerate(stats):
     x = 40 + i * cw
     cells += f'''<line x1="{x}" y1="20" x2="{x}" y2="100" stroke="{LINE}" stroke-width="1"/>
 <text x="{x+24}" y="55" font-family="{MONO}" font-size="13" letter-spacing="1.5" fill="{DIM}">{label}</text>
-<text x="{x+24}" y="82" font-family="{MONO}" font-size="17" letter-spacing="0.5" fill="{GOLD}">{value}</text>'''
+<text x="{x+24}" y="82" font-family="{MONO}" font-size="11.5" letter-spacing="0.3" fill="{GOLD}">{value}</text>'''
 cells += f'<line x1="{W-40}" y1="20" x2="{W-40}" y2="100" stroke="{LINE}" stroke-width="1"/>'
 write("status", frame(120, cells, "system status"))
 
